@@ -19,7 +19,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.9 GPA
 
 ## Certificates
-__Computer Programming Certificate__ Brigham Young University Idaho
+__Computer Programming Certificate__ Brigham Young University - Idaho
 
 ## Related Experience
 
@@ -39,7 +39,7 @@ __Coursework Skills__
     -MERN stack
 
 __Other Skills__
-    -Project Managment with Jira Boards
+    -Project management with Jira Boards
     -Continual Integration with Jenkins pipeline
 
 ### Internships
@@ -47,7 +47,7 @@ __Other Skills__
 `June 2023 - Current`
 __Schnieder Electric__, Remote
 
-- Worked on an internal tool for optimizing time keeping
+- Worked on an internal tool for optimizing time-keeping
 - Full stack development using the languages: HTML, CSS, Javascript, C#, SQL
 - Developing APIs
 - Contributed to the design and development of a component specification, Puesdo-code writing
